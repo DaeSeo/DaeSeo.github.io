@@ -5,15 +5,11 @@ layout: single
 comments: false
 ---
 
-<img title="" src="file:///Users/seodaeseong/Desktop/blog/DaeSeo.github.io/assets/images/main.png" alt="about_meee" width="">
+<img width="991" alt="main" src="https://github.com/DaeSeo/DaeSeo.github.io/assets/118124409/ff181897-e2f6-4c7c-8b4b-0654b72cac32">
 
-
-
-Currently studying Artificial Intelligence🖥️ & Biology🧬
+Currently studying Artificial Intelligence 🖥️ & Biology🧬
 
 Interested in Ai for protein prediction, drug discovery
-
-
 
 <ul class="author__urls social-icons">
         <li itemprop="homeLocation" itemscope="" itemtype="https://schema.org/Place">

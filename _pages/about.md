@@ -5,7 +5,7 @@ layout: single
 comments: false
 ---
 
-<img width="991" alt="main" src="https://github.com/DaeSeo/DaeSeo.github.io/assets/118124409/ff181897-e2f6-4c7c-8b4b-0654b72cac32">
+<img width="991" alt="main" src="https://github.com/DaeSeo/DaeSeo.github.io/assets/118124409/fb910dc3-28d7-48f7-a51c-e05f23e0a216">
 
 Currently studying Artificial Intelligence 🖥️ & Biology🧬
 

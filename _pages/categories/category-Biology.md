@@ -1,9 +1,9 @@
 ---
-title: "Categories4"
+title: "Biology"
 layout: category
-permalink: /categories/categories4/
+permalink: /categories/Biology/
 author_profile: true
-taxonomy: Categories4
+taxonomy: Biology
 sidebar:
   nav: "categories"
 ---

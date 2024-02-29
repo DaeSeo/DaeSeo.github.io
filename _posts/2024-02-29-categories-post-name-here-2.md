@@ -1,13 +1,13 @@
 ---
-title: "[포스팅 예시] 이곳에 제목을 입력하세요"
+title: "Step one"
 excerpt: "본문의 주요 내용을 여기에 입력하세요"
 
 categories:
-  - Categories3
+  - Machine Learning
 tags:
   - [tag1, tag2]
 
-permalink: /categories3/post-name-here-3/
+permalink: /Machine Learning/post-name-here-2/
 
 toc: true
 toc_sticky: true
@@ -19,3 +19,4 @@ last_modified_at: 2022-07-24
 ## 🦥 본문
 
 본문은 여기에 ...
+asdfasdf

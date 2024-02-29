@@ -105,9 +105,9 @@ author:
   email            : "daeseong98@gmail.com"
 
   links: # 사이트 링크
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:daeseong98@gmail.com"
+    # - label: "Email"
+    #   icon: "fas fa-fw fa-envelope-square"
+    #   url: "mailto:daeseong98@gmail.com"
 #     - label: "Website"
 #       icon: "fas fa-fw fa-link"
 #       # url: "https://your-website.com"

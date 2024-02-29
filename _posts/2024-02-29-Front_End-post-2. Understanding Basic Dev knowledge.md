@@ -34,7 +34,7 @@ last_modified_at: 2024-02-29
 
 2. Atom
 
-3. Webstorm 
+3. Webstorm
 
 등이 존재하지만 이번 강의를 진행하는 동안은 VSCode를 사용하여 실습을 진행하도록 하겠다.
 
@@ -117,3 +117,6 @@ last_modified_at: 2024-02-29
    e. FTP
    
    f. SFTP
+
+
+끝.

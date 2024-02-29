@@ -16,6 +16,10 @@ date: 2024-02-29
 last_modified_at: 2024-02-29
 ---
 
+## 
+
+<img width="761" alt="imgae" src="https://github.com/DaeSeo/DaeSeo.github.io/assets/118124409/ac162c9b-826b-457c-8833-0866526239fd">
+
 ## 온보딩 시작
 
 소속되어있는 데이터과학 학술동아리에서 2024년 2기 모집과 함께 OnBoarding 교육이 시작됐다.

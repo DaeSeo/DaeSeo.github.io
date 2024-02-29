@@ -1,8 +1,10 @@
 ---
-title: "Hi all! I'm OOOOOO👋🏻"
+title: "Hey there, I'm Daeseong Seo"
 permalink: /about/
 layout: single
 comments: false
 ---
 
-본인 소개 여기에 입력
+Currently studying Artificial Inteligence & Biology
+
+Intersted in Ai for protein prediction, drug discovery

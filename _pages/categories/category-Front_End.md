@@ -1,9 +1,9 @@
 ---
-title: "Front_End"
+title: "Front End"
 layout: category
-permalink: /categories/Front_End/
+permalink: /categories/Front End/
 author_profile: true
-taxonomy: Front_End
+taxonomy: Front End
 sidebar:
   nav: "categories"
 ---

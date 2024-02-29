@@ -5,6 +5,34 @@ layout: single
 comments: false
 ---
 
-Currently studying Artificial Inteligence & Biology
+<img title="" src="file:///Users/seodaeseong/Desktop/blog/DaeSeo.github.io/assets/images/main.png" alt="about_meee" width="">
 
-Intersted in Ai for protein prediction, drug discovery
+
+
+Currently studying Artificial Intelligence🖥️ & Biology🧬
+
+Interested in Ai for protein prediction, drug discovery
+
+
+
+<ul class="author__urls social-icons">
+        <li itemprop="homeLocation" itemscope="" itemtype="https://schema.org/Place">
+          <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name">  Gwangju, Korea</span>
+        </li>
+        <li>
+          <a href="https://github.com/DaeSeo" itemprop="sameAs" rel="nofollow noopener noreferrer">
+            <i class="fab fa-fw fa-github" aria-hidden="true"></i><span class="label">  https://github.com/DaeSeo</span>
+          </a>
+        </li>
+        <li>
+          <a href="mailto:daeseong98@gmail.com">
+            <meta itemprop="email" content="daeseong98@gmail.com">
+            <i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i><span class="label">  daeseong98@gmail.com</span>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.instagram.com/seodeso/" itemprop="sameAs" rel="nofollow noopener noreferrer">
+            <i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">  https://www.instagram.com/seodeso/</span>
+          </a>
+        </li>
+    </ul>

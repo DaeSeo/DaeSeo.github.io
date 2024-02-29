@@ -21,7 +21,7 @@ minimal_mistakes_skin: "plum" # "default" "air", "aqua", ...
 locale: "ko-KR" #"en-US"
 title: "DaeSo's Blog" # 상단 헤더에 보이는 블로그 명
 title_separator: "&#124;"
-subtitle: # site tagline that appears below site title in masthead
+subtitle: "Dont Yuck my Yum"
 name: "DaeSo" # 블로그 닉네임 설정
 description: "Dont Yuck my Yum" # 블로그 설명
 url: "https://DaeSeo.github.io" # 블로그 URL
@@ -105,9 +105,9 @@ author:
   email            : "daeseong98@gmail.com"
 
   links: # 사이트 링크
-#     - label: "Email"
-#       icon: "fas fa-fw fa-envelope-square"
-#       # url: "mailto:your.name@email.com"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:daeseong98@gmail.com"
 #     - label: "Website"
 #       icon: "fas fa-fw fa-link"
 #       # url: "https://your-website.com"
@@ -117,9 +117,9 @@ author:
 #     - label: "Facebook"
 #       icon: "fab fa-fw fa-facebook-square"
 #       # url: "https://facebook.com/"
-#     - label: "GitHub"
-#       icon: "fab fa-fw fa-github"
-#       url: "https://github.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/DaeSeo"
 #     - label: "Instagram"
 #       icon: "fab fa-fw fa-instagram"
 #       url: "https://www.instagram.com/"

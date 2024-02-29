@@ -1,5 +1,5 @@
 ---
-title: "2. Understanding Basic Dev knowledge"
+title: "Understanding Basic Dev knowledge"
 excerpt: "Manhackdo Onboarding Course-1"
 
 categories:
@@ -7,7 +7,7 @@ categories:
 tags:
   - [HTML, CSS, JS]
 
-permalink: /Front End/2. Understanding Basic Dev knowledge/
+permalink: /Front End/Understanding Basic Dev knowledge/
 
 toc: true
 toc_sticky: true

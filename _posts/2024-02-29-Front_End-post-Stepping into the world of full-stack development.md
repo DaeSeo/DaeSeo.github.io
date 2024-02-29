@@ -1,5 +1,5 @@
 ---
-title: "1. Stepping into the world of full-stack development"
+title: "Stepping into the world of full-stack development"
 excerpt: "Manhackdo Onboarding Course"
 
 categories:
@@ -7,7 +7,7 @@ categories:
 tags:
   - [HTML, CSS, JS]
 
-permalink: /Front End/1. Stepping into the world of full-stack development/
+permalink: /Front End/Stepping into the world of full-stack development/
 
 toc: true
 toc_sticky: true

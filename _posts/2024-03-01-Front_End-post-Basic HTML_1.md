@@ -16,11 +16,11 @@ date: 2024-03-01
 last_modified_at: 2024-03-01
 ---
 
-
-
 # HTML Basic
 
+<img width="1785" alt="html_logo" src="https://github.com/DaeSeo/DaeSeo.github.io/assets/118124409/f1fcb8d8-7fcd-48ff-b5b9-c1e52ab31600">
 
+### 
 
 ### HTML 구조 파악
 
@@ -38,8 +38,6 @@ HTML 코드는 기본적으로 tag를 통해서 이루어져있다.
 
 위 코드에서는 p태그를 이용하였으며 속성값으로 edictor-note를 제공했다. 해당 태그의 내용은 오픈태그 바로 뒤 "My cat is very grumpy" 이며 이후 닫는 태그 </P>가 위치한다.
 
-
-
 아래는 기본적인 html 구조이다.
 
 ```html
@@ -52,13 +50,10 @@ HTML 코드는 기본적으로 tag를 통해서 이루어져있다.
   <title>Document</title>
 </head>
 <body>
-  
+
 </body>
 </html>    
 ```
-
-
-
 
 
 
@@ -165,3 +160,9 @@ href: 데이터의 경로 표시
 자바스크립트 파일을 연결하는 사용하는 태그
 
 src: 자바스크립트 파일 경로
+
+
+
+
+
+끝.

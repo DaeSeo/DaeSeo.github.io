@@ -3,11 +3,11 @@ title: "Evolution, the Themes of Biology, and Scientific Inquiry"
 excerpt: "Campbell Biology Chpt 1"
 
 categories:
-  - Front End
+  - Biology
 tags:
   - [Campbell]
 
-permalink: /Front End/Evolution, the Themes of Biology, and Scientific Inquiry/
+permalink: /Biology/Evolution, the Themes of Biology, and Scientific Inquiry/
 
 toc: true
 toc_sticky: true
@@ -33,11 +33,11 @@ there are some of the properties and processes we associate with life.
 6. Response to the environment
 7. Reproduction
 
-<br/>
+<br>
 
 Biology, the scientific study of life, is a subject of enormous scope, and exciting new biological discoveries are being made every day.
 
-<br/>
+<br>
 
 Here are five unifying themes-ways of thinking about life that will still be useful decades from now.
 
@@ -72,7 +72,7 @@ Prokaryotic-cell(원핵세포) lacks a nucleus or other membrane-enclosed organe
 
 <img width="695" alt="eukarytocis cell" src="https://github.com/DaeSeo/DaeSeo.github.io/assets/118124409/5d6ba363-2e18-41a9-b656-620f09e122d6">
 
-<br/>
+<br>
 
 #### DNA, the Genetic Material
 
@@ -82,10 +82,10 @@ A DNA molecule is made up of two long chains, called strands, arranged in a doub
 
 <img width="483" alt="DAN" src="https://github.com/DaeSeo/DaeSeo.github.io/assets/118124409/e71da631-c992-47cc-b085-a6d6d80f252e">
 
-<br/>
+<br>
 
 The sequence of nucleotides along a gene is transcribed into mRNA, which is then **translated** into a linked series of protein building blocks called amino acids. Once completed, the amino acid chain forms a specific protein with a unique shape and function. The entire process by which the information in a gene directs the manufacture of a cellular product is called **gene_expression**
 
-<br/>
+<br>
 
 <img width="462" alt="gene_expression" src="https://github.com/DaeSeo/DaeSeo.github.io/assets/118124409/d4262a0a-7164-4f6e-9d6d-a155eef87273">

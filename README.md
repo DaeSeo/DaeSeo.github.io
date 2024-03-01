@@ -1,7 +1,7 @@
 ## 🦥 `Minimal Mistakes theme customized by choiiis`
 
 📎 **블로그 바로 가기**
-[`https://choiiis.github.io/`](https://choiiis.github.io/)
+[`https://DaeSeo.github.io/`](https://DaeSeo.github.io/)
 
 ---
 
@@ -189,7 +189,6 @@ last_modified_at: 2021-10-09 # 최종 수정 날짜
 ```
 
 4. front matter 하단에 포스팅 내용 작성
-
 - 참고 (\_config.yml에서 포스팅 기본 세팅) : comment, author_profile 등의 상태를 변경 가능. 포스팅 디폴트값
 
 ```yml

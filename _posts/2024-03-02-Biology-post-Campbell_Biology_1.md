@@ -7,7 +7,7 @@ categories:
 tags:
   - [Biology, Campbell]
 
-permalink: /Front End/Campbell Biology Chpt 1/
+permalink: /Biology/Campbell Biology Chpt 1/
 
 toc: true
 toc_sticky: true

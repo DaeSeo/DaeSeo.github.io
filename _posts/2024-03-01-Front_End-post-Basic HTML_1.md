@@ -1,5 +1,5 @@
 ---
-title: "Basic HTML-1 TWTWTW"
+title: "Basic HTML-1"
 excerpt: "Manhackdo Onboarding Course-2"
 
 categories:

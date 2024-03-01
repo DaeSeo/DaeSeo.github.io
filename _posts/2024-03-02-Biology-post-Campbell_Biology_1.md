@@ -5,7 +5,7 @@ excerpt: "Campbell Biology Chpt 1"
 categories:
   - Biology
 tags:
-  - [HTML]
+  - [Biology, Campbell]
 
 permalink: /Front End/Campbell Biology Chpt 1/
 

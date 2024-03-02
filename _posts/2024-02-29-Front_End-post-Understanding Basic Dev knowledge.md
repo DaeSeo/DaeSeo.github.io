@@ -18,7 +18,7 @@ last_modified_at: 2024-02-29
 
 <img width="697" alt="what-is-client-server-network" src="https://github.com/DaeSeo/DaeSeo.github.io/assets/118124409/163cbfab-0f7c-48c5-85e5-5d1faebc9c3f">
 
-# 기본 개발 배경지식
+### 기본 개발 배경지식
 
 ##### 개발환경
 
@@ -80,7 +80,7 @@ last_modified_at: 2024-02-29
 
 
 
-### 클라이언트 & 서버
+##### 클라이언트 & 서버
 
 ![server](https://github.com/DaeSeo/DaeSeo.github.io/assets/118124409/128840ff-4abc-466b-9e5e-023e7e8a2f74)
 
@@ -92,7 +92,7 @@ last_modified_at: 2024-02-29
 
 
 
-### 네트워크
+##### 네트워크
 
 네트워크 기본지식으로는 IP, Domain, Port, Protocol이 있다.
 
